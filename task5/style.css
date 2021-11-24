@@ -33,9 +33,11 @@ input[type='text'] {
 }
 .two > p {
   background-color: yellow;
+  color: black;
 }
 .twoo {
   border: 5px solid white;
+  color: black;
 }
 em {
   color: white;
@@ -44,4 +46,8 @@ em {
 body > p {
   color: black;
   background-color: yellow;
+}
+.one {
+  background-color: yellow;
+  color: black;
 }
