@@ -1,0 +1,40 @@
+body {
+  background-color: #bdc3c7;
+}
+h1 {
+  background-color: #9b59b6;
+}
+h2 {
+  color: orange;
+}
+ul > li {
+  color: blue;
+}
+p {
+  color: yellow;
+}
+input {
+  border: 3px solid blue;
+}
+.hello {
+  background-color: white;
+}
+#special {
+  border: 2px solid blue;
+}
+div > p {
+  font-size: 25px;
+}
+input[type='text'] {
+  background-color: grey;
+}
+.two > p {
+  background-color: yellow;
+}
+.twoo {
+  border: 5px solid white;
+}
+em {
+  color: white;
+  font-size: 20px;
+}
