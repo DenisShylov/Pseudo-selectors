@@ -15,13 +15,14 @@
 .anchor:hover {
   font-size: 24px;
 }
-.some-button:disabled {
-  border: 2px dashed grey;
-}
-.some-button:hover {
+.some-button:enabled:hover {
   background-color: grey;
   color: white;
 }
+.some-button:disabled {
+  border: 2px dashed grey;
+}
+
 .search:focus {
   background-color: orange;
 }
