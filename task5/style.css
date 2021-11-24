@@ -2,7 +2,7 @@ body {
   background-color: #bdc3c7;
 }
 h1 {
-  background-color: #9b59b6;
+  color: #9b59b6;
 }
 h2 {
   color: orange;
@@ -14,13 +14,16 @@ p {
   color: yellow;
 }
 input {
-  border: 3px solid blue;
+  border: 3px solid red;
 }
 .hello {
   background-color: white;
+  color: black;
 }
 #special {
   border: 2px solid blue;
+  background-color: yellow;
+  color: black;
 }
 div > p {
   font-size: 25px;
@@ -37,4 +40,8 @@ input[type='text'] {
 em {
   color: white;
   font-size: 20px;
+}
+body > p {
+  color: black;
+  background-color: yellow;
 }
